@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">"tpl-tauri-pnpm"</string>
+    <string name="main_activity_title">"tpl-tauri-pnpm"</string>
+</resources>
